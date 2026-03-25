@@ -5,7 +5,7 @@ import os
 
 # ── Page Config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Kisan AI – Smart Farming",
+    page_title="Kisan AI - Smart Farming",
     page_icon="🌾",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -710,7 +710,7 @@ if predict_btn:
                     </div>
                 </div>
                 <div class="result-card">
-                    <div class="result-card-top">
+                    <div class="result-card-top">   
                         <div class="result-card-icon">🧴</div>
                         <div class="result-card-label">Fertilizer to Apply</div>
                     </div>
