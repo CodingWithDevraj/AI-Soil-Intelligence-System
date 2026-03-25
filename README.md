@@ -233,7 +233,9 @@ This system can be used by:
 ## Author
 
 Devraj Choudhary
+
 B.Tech Student
+
 Gurukul Kangri University
 
 GitHub: [https://github.com/CodingWithDevraj](https://github.com/CodingWithDevraj)
