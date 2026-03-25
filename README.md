@@ -232,11 +232,12 @@ This system can be used by:
 
 ## Author
 
-Devraj Choudhary
+**Devraj Choudhary**
 
-B.Tech Student
+B.Tech – Gurukul Kangri University
+Roorkee, Uttarakhand
 
-Gurukul Kangri University
+Email: [devrajror366@gmail.com](mailto:devrajror366@gmail.com)
 
-GitHub: [https://github.com/CodingWithDevraj](https://github.com/CodingWithDevraj)
-LinkedIn: [https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
+LinkedIn
+[https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
