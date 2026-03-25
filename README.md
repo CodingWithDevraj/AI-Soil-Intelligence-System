@@ -199,10 +199,12 @@ POST /predict
 ## Screenshots
 
 * Inputs 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d918f13-06fd-4b2d-a023-faf902d78026" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/627c57ed-a72e-4e82-b3bd-69921619050d" />
+
 
 * Predictions
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f28a1a2a-61d7-4bbe-a2f3-b51b8cc1fc66" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/480e360a-cf22-4e8d-8eb1-bacd65b2a979" />
+
 
 
 ---
