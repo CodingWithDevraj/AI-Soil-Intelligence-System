@@ -196,6 +196,14 @@ Endpoint:
 ```
 POST /predict
 ```
+## Screenshots
+
+* Inputs 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d918f13-06fd-4b2d-a023-faf902d78026" />
+
+* Predictions
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f28a1a2a-61d7-4bbe-a2f3-b51b8cc1fc66" />
+
 
 ---
 
